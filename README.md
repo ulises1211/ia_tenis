@@ -92,7 +92,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib requests beautif
 
 ## 📝 Notas Adicionales
 
-- Los datos provienen de [Tennis Data](https://www.tennis-data.co.uk/)
+- Los datos provienen de [Tennis Data](http://www.tennis-data.co.uk/)
 - Consulta `notas.txt` para más detalles sobre las columnas y su significado
 
 ---
